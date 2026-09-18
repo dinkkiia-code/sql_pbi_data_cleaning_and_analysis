@@ -1,4 +1,4 @@
-# Project title: 
+# Project Title: 
 Data Cleaning and analysis of financial transaction 
 
 # Project Description:
@@ -29,7 +29,6 @@ The goal is to clean the dataset, standardise formats, remove inconsistencies, e
 The project demonstrates how I have used SQL and Power Query together to produce reliable, analysis‑ready data.
 
 # Data Cleaning and Standardisation: 
-# Sql Cleaning steps:
 The raw dataset contained inconsistent date formats, mixed numeric formats, blank fields, and unstandardised categories.
 Key cleaning operations included:
 - Converting transaction_date to proper DATE using STR_TO_DATE
@@ -45,7 +44,7 @@ Key cleaning operations included:
 - Marketing vs Travel spend comparison
 - Total spend trends across multiple years
 
-  # Techniques Used:
+# Techniques Used:
 - MySQL 8.0
 - Excel Power Query Editor
 - Power BI Desktop
