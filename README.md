@@ -11,7 +11,7 @@ The project demonstrates practical data governance, data quality improvement, an
 - Before-and-after dataset comparisons
 - Data Visulisation (PBI)
 - Documentation of cleaning logic
-- 
+  
 # Project Overview: 
 This project starts with a raw CSV dataset containing:
 - transaction_date
@@ -19,13 +19,16 @@ This project starts with a raw CSV dataset containing:
 - category
 - amount
 - transaction_year
+  
 The goal is to clean the dataset, standardise formats, remove inconsistencies, engineer new fields, and build analytical outputs such as:
+
 - Total spend per category per year
 - Previous‑year spend (LAG logic)
 - Best‑selling category per year
 - Category comparisons (e.g., Marketing vs Travel)
 - Year with highest total spend
 - Visual dashboards in Power BI
+  
 The project demonstrates how I have used SQL and Power Query together to produce reliable, analysis‑ready data.
 
 # Data Cleaning and Standardisation: 
